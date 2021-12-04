@@ -8,10 +8,11 @@
 
 # ❓ 𝖂𝖍𝖞 𝕸𝖆𝖉𝖊 𝕿𝖍𝖎𝖘 𝕭𝖔𝖙? 
 <li><a href="https://wa.me/254718241545?text=ULTRON
-?">WhatsApp Developer</a></li>
-```sh
-💻 𝗪𝗵𝗮𝘁 𝗖𝗮𝗻 𝗕𝗼𝘁 𝗗𝗼???
+?">WhatsApp Developer</a></li> 
+<li><a href="https://t.me/five34">Telegram Developer</a></li> 
 
+💻 𝗪𝗵𝗮𝘁 𝗖𝗮𝗻 𝗕𝗼𝘁 𝗗𝗼???
+```
 🎮ᴜʟᴛʀᴏɴ
 * 💡𝘈𝘥𝘷𝘢𝘯𝘤𝘦 𝘞𝘩𝘢𝘵𝘴𝘢𝘱𝘱 𝘜𝘴𝘦𝘳𝘣𝘰𝘵 𝘞𝘪𝘵𝘩 80+ 𝘊𝘰𝘮𝘮𝘢𝘯𝘥𝘴 𝘧𝘰𝘳 𝘣𝘰𝘵𝘩 𝘗𝘳𝘪𝘷𝘢𝘵𝘦 𝘢𝘯𝘥 𝘗𝘶𝘣𝘭𝘪𝘤..
 * ᴜʟᴛʀᴏɴ is written in JavaScript and is by far the most advance Whatsapp Userbot.
@@ -20,15 +21,15 @@
 ```
 
 
-# 𝕯𝖊𝖕𝖑𝖔𝖞𝖒𝖊𝖓𝖙
-```
+# 𝕯𝖊𝖕𝖑𝖔Y𝖒𝖊𝖓𝖙
+```sh
 Bot is still under development...by December 15/2021
 Heroku Deployment will be added
 ```
 
 
 # 𝕴𝖓𝖘𝖕𝖎𝖗𝖆𝖙𝖎𝖔𝖓
-```
+```sh
 )¤•• ʙᴀɪʟᴇʏꜱ ᴡʜᴀᴛꜱᴀᴘᴘ ʟɪʙʀᴀʀʏ [https://github.com/adiwajshing/Baileys]
 )¤•• ᴡʜᴀᴛꜱᴀᴘᴘ ᴡᴇʙ ᴀᴘɪ [https://github.com/pedroslopez/whatsapp-web.js/]
 )¤•• ᴘʀɪɴᴄᴇ-ᴍᴇɴᴅɪʀᴀᴛᴛᴀ ꜱᴄ [https://github.com/BotsAppOfficial/BotsApp]
