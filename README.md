@@ -3,7 +3,7 @@
 # 『 🎮ᴜʟᴛʀᴏɴ™ 』> *ʏᴏᴜʀ ᴀꜱꜱɪꜱꜱᴛᴀɴᴛ ꜰᴏʀ ᴍᴀᴋɪɴɢ ʙᴏʀɪɴɢ ᴡʜᴀᴛꜱᴀᴘᴘ ᴀ ʙᴇᴛᴛᴇʀ ᴀᴅᴠᴀɴᴄᴇ ᴀᴘᴘ!*
 
 <p align="center">
-  <img src="https://i.postimg.cc/5NgF5wRc/Screenshot-20211204-145549.png" height="320px"/>
+  <img src="https://i.postimg.cc/GtLBTGSz/IMG-20211204-WA0048.jpg" height="320px"/>
 </p>
 
 # ❓ 𝖂𝖍𝖞 𝕸𝖆𝖉𝖊 𝕿𝖍𝖎𝖘 𝕭𝖔𝖙? 
