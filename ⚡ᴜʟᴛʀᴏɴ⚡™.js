@@ -104,13 +104,13 @@ async function ᴜʟᴛʀᴏɴRunner() {
             rows: [
               {
                 title: "⚙️𝐆𝐢𝐭𝐇𝐮𝐛",
-                description: `🔗DEV: https://github.com/Krakinz
-                🔗ULTRON: https://github.com/Krakinz/Ultron`,
+                description: `🔗DEV: https://github.com/RED-ALISON
+                🔗ULTRON: https://github.com/RED-ALISON/Ultron`,
                 rowId: "rowid1",
               },
               {
                 title: "⚙️𝙂𝙧𝙤𝙪𝙥",
-                description: `🔗Whatsapp: https://chat.whatsapp.com/FmMcEeSqZQw85qAkgUs3f5
+                description: `🔗Whatsapp: https://chat.whatsapp.com/ILVS6uZVPvO6bWqyxUr5pg
                 🔗Discord: https://discord.gg/xcFN6NDHEV`,
                 rowId: "rowid2",
               },
