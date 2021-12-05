@@ -11,7 +11,7 @@ RUN apt install nodejs -y
 RUN apt install python3 -y 
 RUN apt install python3-pip -y 
 RUN apt install fonts-symbola 
-RUN git clone https://github.com/Krakinz/Ultron.git
+RUN git clone https://github.com/RED-ALISON/Ultron.git
 RUN cd Ultron
 WORKDIR /Ultron
 RUN npm install 
